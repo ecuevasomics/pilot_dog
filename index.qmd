@@ -148,10 +148,10 @@ kable(metricas,
 
 **Fuentes principales:**
 
-- Grand View Research. (2024). *Mexico Pet DNA Testing Market Size & Outlook, 2024-2030*. Horizon Databook.
-- Grand View Research. (2024). *Latin America Veterinary DNA Testing Market Size & Outlook, 2030*.
-- IMARC Group. (2024). *Mexico Veterinary Healthcare Market Report 2025-2033*.
-- INEGI. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*.
+-   Grand View Research. (2024). *Mexico Pet DNA Testing Market Size & Outlook, 2024-2030*. Horizon Databook.
+-   Grand View Research. (2024). *Latin America Veterinary DNA Testing Market Size & Outlook, 2030*.
+-   IMARC Group. (2024). *Mexico Veterinary Healthcare Market Report 2025-2033*.
+-   INEGI. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*.
 
 # Visualizaciones de Datos del Mercado
 
@@ -292,9 +292,9 @@ El análisis PESTEL evalúa los factores macro-ambientales que influyen en el me
 
 **Regulaciones y Normativas:**
 
-- **SENASICA** (Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria) supervisa todos los productos y servicios veterinarios.
-- **NOM-012-SAG/ZOO-2020**: Regula especificaciones para productos de uso animal, incluyendo pruebas diagnósticas genéticas.
-- **Ley Federal de Sanidad Animal** y su Reglamento (2012) establecen lineamientos para diagnóstico y prevención de enfermedades.
+-   [**SENASICA**](https://www.gob.mx/senasica) (Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria) supervisa todos los productos y servicios veterinarios.
+-   [**NOM-012-SAG/ZOO-2020**](https://www.gob.mx/cms/uploads/attachment/file/869678/oficial.pdf): Regula especificaciones para productos de uso animal, incluyendo pruebas diagnósticas genéticas. Especificanmente el punto `8.2.3.4`. **Indicaciones**: Se deben expresar en forma clara y con terminología de uso común, las condiciones de manejo y conservación del producto, especie(s) animal(es), etapa, edad o fin zootécnico, espectro de acción y otras condiciones relevantes. En el caso de kits diagnósticos se deben acompañar de instructivos que expresen claramente su uso e interpretación de resultados.
+-   [**Ley Federal de Sanidad Animal**](https://www.gob.mx/senasica/documentos/ley-federal-de-sanidad-animal) y su Reglamento (2012) establecen lineamientos para diagnóstico y prevención de enfermedades.
 
 **Políticas de Bienestar Animal:**
 
@@ -302,8 +302,8 @@ En julio de 2024, Humane Society International/México lanzó un programa piloto
 
 **Fuentes:**
 
-- Gobierno de México. (2020). *NOM-012-SAG/ZOO-2020: Especificaciones para la regulación de productos para uso o consumo animal*. DOF.
-- SENASICA. (2024). *Control de Productos Veterinarios*. Disponible en: https://www.gob.mx/senasica/
+-   Gobierno de México. (2020). *NOM-012-SAG/ZOO-2020: Especificaciones para la regulación de productos para uso o consumo animal*. DOF.
+-   SENASICA. (2024). *Control de Productos Veterinarios*. Disponible en: https://www.gob.mx/senasica/
 
 ## Factores Económicos
 
@@ -339,9 +339,9 @@ La tendencia hacia productos premium y super premium está transformando el merc
 
 **Fuentes:**
 
-- Forbes México. (2024). *Así es cómo la industria pet mueve miles de millones en México*. Disponible en: https://forbes.com.mx/
-- Swiss Info. (2025). *Mercado de alimentos para mascotas en México alcanzaría 3,600 millones de dólares en 2025*.
-- Kantar. (2024). Datos de gasto en alimento industrializado para perros.
+-   Forbes México. (2024). *Así es cómo la industria pet mueve miles de millones en México*. Disponible en: https://forbes.com.mx/
+-   Swiss Info. (2025). *Mercado de alimentos para mascotas en México alcanzaría 3,600 millones de dólares en 2025*.
+-   Kantar. (2024). Datos de gasto en alimento industrializado para perros.
 
 ## Factores Sociales
 
@@ -355,25 +355,36 @@ La población de mascotas creció a un CAGR del 5.5% entre 2016 y 2021, pasando 
 
 **Fuentes:**
 
-- INEGI. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*.
-- Agriculture Canada. (2024). *Sector Trend Analysis – Pet food trends in Mexico*.
+-   INEGI. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*.
+-   Agriculture Canada. (2024). *Sector Trend Analysis – Pet food trends in Mexico*.
 
 ## Factores Tecnológicos
 
 **Avances en Genética Canina:**
 
-Las tecnologías actuales permiten identificar más de 350 razas y detectar múltiples enfermedades hereditarias. Empresas como Embark y Wisdom Panel han desarrollado bases de datos genéticas extensas.
+Las tecnologías actuales permiten identificar más de 350 razas y detectar múltiples enfermedades hereditarias. Empresas como [Embark](https://embarkvet.com/) (solo cuenta con servicio en USA) y [Wisdom Panel](https://www.wisdompanel.com/en-us) han desarrollado bases de datos genéticas extensas.
+
+| Producto | Empresa | Precio (USD) |
+|----|----|----|
+| [[**Breed + Health Dog DNA Test**]{.underline}](https://shop.embarkvet.com/products/breed-and-health-dog-dna-test-kit) | Embark | \$130 |
+| [[**Breed ID Dog DNA Test**]{.underline}](https://shop.embarkvet.com/products/embark-dog-dna-test-kit?variant=40103683784764) | Embark | \$99 |
+| [[**Dog Age Test**]{.underline}](https://shop.embarkvet.com/products/dog-age) | Embark | \$109 |
+| [[**Gut Health Test**]{.underline}](https://shop.embarkvet.com/products/dog-gut-health-test) | Embark | \$110 |
+| [**Wisdom Panel™ Premium**](https://www.wisdompanel.com/en-us/dog-dna-tests/premium) | Wisdom Panel | \$127.99 |
+| [**Wisdom Panel™ Essential**](https://www.wisdompanel.com/en-us/dog-dna-tests/essential) | Wisdom Panel | \$95.99 |
+| [**Wisdom Panel™ Breed Discovery**](https://www.wisdompanel.com/en-us/dog-dna-tests/breed-discovery) | Wisdom Panel | \$99.99 |
+| [**Optimal Selection Advanced - Canine**](https://optimal-selection.com/products/optimal-selection-advanced-canine) | Wisdom Panel | \$189.99 |
 
 **Innovación Local:**
 
-- **Argentina**: Creación de los primeros caballos editados genéticamente usando CRISPR-Cas9 en enero de 2025.
-- **México**: Empresa Bionag desarrolla nanotecnología aplicada al mercado de mascotas.
-- **Laboratorios especializados**: Amplicare Lab en México ofrece pruebas moleculares y genéticas con tecnologías de vanguardia.
+-   **Argentina**: Creación de los primeros caballos editados genéticamente usando CRISPR-Cas9 en enero de 2025.
+-   **México**: Empresa Bionag desarrolla nanotecnología aplicada al mercado de mascotas.
+-   **Laboratorios especializados**: Amplicare Lab en México ofrece pruebas moleculares y genéticas con tecnologías de vanguardia.
 
 **Fuentes:**
 
-- ResearchGate. (2025). *Diversificación del virus causal de moquillo canino en México*.
-- Milenio. (2024). *Mascotas, mercado que impulsa el desarrollo de nanotecnología mexicana*.
+-   ResearchGate. (2025). *Diversificación del virus causal de moquillo canino en México*.
+-   Milenio. (2024). *Mascotas, mercado que impulsa el desarrollo de nanotecnología mexicana*.
 
 ## Factores Ecológicos
 
@@ -389,14 +400,14 @@ Las pruebas genéticas que identifican sensibilidades a medicamentos (como MDR1)
 
 **Marco Regulatorio:**
 
-- **Ley Federal de Sanidad Animal** y Reglamento de 2012
-- **NOM-012-SAG/ZOO-2020**: Regulación de productos para uso animal
-- **NOM-022-ZOO-1995**: Características zoosanitarias para establecimientos comerciales
+-   **Ley Federal de Sanidad Animal** y Reglamento de 2012
+-   **NOM-012-SAG/ZOO-2020**: Regulación de productos para uso animal
+-   **NOM-022-ZOO-1995**: Características zoosanitarias para establecimientos comerciales
 
 **Fuentes:**
 
-- Diario Oficial de la Federación. (2012). *Reglamento de la Ley Federal de Sanidad Animal*.
-- SENASICA. (2024). *Normas Oficiales Mexicanas en materia de Salud Animal*.
+-   Diario Oficial de la Federación. (2012). *Reglamento de la Ley Federal de Sanidad Animal*.
+-   SENASICA. (2024). *Normas Oficiales Mexicanas en materia de Salud Animal*.
 
 # Análisis SWOT
 
@@ -453,27 +464,27 @@ swot_data %>%
 
 ### Estrategias FO (Fortalezas-Oportunidades)
 
-- Aprovechar crecimiento del mercado para desarrollar productos integrados con seguros
-- Utilizar capacidades locales para crear bases de datos regionales más precisas
-- Expandir modelo de kits caseros a segmentos premium y criadores profesionales
+-   Aprovechar crecimiento del mercado para desarrollar productos integrados con seguros
+-   Utilizar capacidades locales para crear bases de datos regionales más precisas
+-   Expandir modelo de kits caseros a segmentos premium y criadores profesionales
 
 ### Estrategias DO (Debilidades-Oportunidades)
 
-- Invertir en educación del mercado para superar bajo conocimiento
-- Desarrollar alianzas con veterinarios para mejorar integración de sistemas
-- Crear planes de financiamiento para abordar sensibilidad al precio
+-   Invertir en educación del mercado para superar bajo conocimiento
+-   Desarrollar alianzas con veterinarios para mejorar integración de sistemas
+-   Crear planes de financiamiento para abordar sensibilidad al precio
 
 ### Estrategias FA (Fortalezas-Amenazas)
 
-- Usar apoyo gubernamental para crear barreras de entrada regulatorias
-- Diferenciar con servicio local y comprensión del mercado regional
-- Desarrollar tecnología propia para reducir dependencia internacional
+-   Usar apoyo gubernamental para crear barreras de entrada regulatorias
+-   Diferenciar con servicio local y comprensión del mercado regional
+-   Desarrollar tecnología propia para reducir dependencia internacional
 
 ### Estrategias DA (Debilidades-Amenazas)
 
-- Formar alianzas estratégicas para competir con empresas internacionales
-- Invertir en infraestructura para reducir dependencia logística
-- Desarrollar programas de certificación veterinaria para superar resistencia
+-   Formar alianzas estratégicas para competir con empresas internacionales
+-   Invertir en infraestructura para reducir dependencia logística
+-   Desarrollar programas de certificación veterinaria para superar resistencia
 
 # Análisis de las 5 Fuerzas de Porter
 
@@ -559,11 +570,11 @@ El mercado presenta una **intensidad competitiva moderada-alta**. La combinació
 
 **Estrategias recomendadas:**
 
-1. **Diferenciación**: Desarrollar propuestas de valor únicas basadas en servicio local y bases de datos regionales
-2. **Educación**: Invertir en programas educativos para veterinarios y propietarios
-3. **Alianzas**: Establecer relaciones con veterinarios, clínicas y criadores
-4. **Precio**: Desarrollar modelos de precio accesibles o financiamiento
-5. **Tecnología**: Invertir en investigación local para mejorar precisión
+1.  **Diferenciación**: Desarrollar propuestas de valor únicas basadas en servicio local y bases de datos regionales
+2.  **Educación**: Invertir en programas educativos para veterinarios y propietarios
+3.  **Alianzas**: Establecer relaciones con veterinarios, clínicas y criadores
+4.  **Precio**: Desarrollar modelos de precio accesibles o financiamiento
+5.  **Tecnología**: Invertir en investigación local para mejorar precisión
 
 # Business Model Canvas
 
@@ -652,89 +663,89 @@ kable(kpis,
 
 ## Conclusiones Principales
 
-1. **Mercado Atractivo en Crecimiento**: El mercado presenta un CAGR del 9.2% en México y 8.4% en Latinoamérica, superando significativamente el crecimiento económico general.
+1.  **Mercado Atractivo en Crecimiento**: El mercado presenta un CAGR del 9.2% en México y 8.4% en Latinoamérica, superando significativamente el crecimiento económico general.
 
-2. **Tendencias Favorables**: La humanización de mascotas (69.8% hogares con mascotas) y el gasto creciente en salud animal crean un entorno propicio.
+2.  **Tendencias Favorables**: La humanización de mascotas (69.8% hogares con mascotas) y el gasto creciente en salud animal crean un entorno propicio.
 
-3. **Oportunidad en Seguros**: Solo 4.3% de mascotas aseguradas representa una oportunidad masiva para productos integrados.
+3.  **Oportunidad en Seguros**: Solo 4.3% de mascotas aseguradas representa una oportunidad masiva para productos integrados.
 
-4. **Competencia Manejable**: Aunque intensa, el desarrollo de capacidades locales y conocimiento regional ofrecen diferenciación.
+4.  **Competencia Manejable**: Aunque intensa, el desarrollo de capacidades locales y conocimiento regional ofrecen diferenciación.
 
-5. **Educación Crítica**: 90% desconoce servicios especializados, requiriendo inversión significativa en educación del mercado.
+5.  **Educación Crítica**: 90% desconoce servicios especializados, requiriendo inversión significativa en educación del mercado.
 
 ## Recomendaciones Estratégicas
 
 ### Estrategia de Entrada al Mercado
 
-- **Segmentación inicial**: Propietarios premium y criadores profesionales
-- **Alianzas veterinarias**: Programas de referencia con clínicas líderes
-- **Diferenciación regional**: Bases de datos específicas para poblaciones latinoamericanas
+-   **Segmentación inicial**: Propietarios premium y criadores profesionales
+-   **Alianzas veterinarias**: Programas de referencia con clínicas líderes
+-   **Diferenciación regional**: Bases de datos específicas para poblaciones latinoamericanas
 
 ### Modelo de Negocio
 
-- **Pricing escalonado**: Básico ($60-80), Salud ($100-150), Premium ($150-200)
-- **Suscripciones**: $50-80/año para actualizaciones y consultas
-- **Punto de equilibrio**: 1,360 pruebas/mes con margen bruto 58%
+-   **Pricing escalonado**: Básico (\$60-80), Salud (\$100-150), Premium (\$150-200)
+-   **Suscripciones**: \$50-80/año para actualizaciones y consultas
+-   **Punto de equilibrio**: 1,360 pruebas/mes con margen bruto 58%
 
 ### Marketing y Educación
 
-- **Contenido educativo**: Blogs, videos, webinars sobre genética canina
-- **Formación veterinaria**: Seminarios y certificaciones
-- **Marketing digital**: Campañas en redes sociales con testimonios
+-   **Contenido educativo**: Blogs, videos, webinars sobre genética canina
+-   **Formación veterinaria**: Seminarios y certificaciones
+-   **Marketing digital**: Campañas en redes sociales con testimonios
 
 ### Desarrollo de Producto
 
-- **Servicios integrados**: Alianzas con aseguradoras
-- **Valor agregado**: Nutrición personalizada, planes de ejercicio
-- **Expansión de especies**: Gatos (mayor crecimiento) y caballos
+-   **Servicios integrados**: Alianzas con aseguradoras
+-   **Valor agregado**: Nutrición personalizada, planes de ejercicio
+-   **Expansión de especies**: Gatos (mayor crecimiento) y caballos
 
 ### Operaciones y Tecnología
 
-- **Inversión inicial**: USD 1.1-1.95M
-- **Capacidad objetivo**: 500-1,000 muestras/mes
-- **Tiempo de procesamiento**: < 15 días
-- **Certificaciones**: ISO/GLP y NOM-012-SAG/ZOO-2020
+-   **Inversión inicial**: USD 1.1-1.95M
+-   **Capacidad objetivo**: 500-1,000 muestras/mes
+-   **Tiempo de procesamiento**: \< 15 días
+-   **Certificaciones**: ISO/GLP y NOM-012-SAG/ZOO-2020
 
 ### Expansión Regional
 
-- **Mercados prioritarios**: México → Argentina → Brasil
-- **Adaptación regulatoria**: Equipo legal especializado
-- **Logística regional**: Alianzas con mensajería confiable
+-   **Mercados prioritarios**: México → Argentina → Brasil
+-   **Adaptación regulatoria**: Equipo legal especializado
+-   **Logística regional**: Alianzas con mensajería confiable
 
 ## Factores Críticos de Éxito
 
-1. **Educación del Mercado**: Inversión sostenida en concienciación
-2. **Alianzas Veterinarias**: Red sólida de veterinarios que recomiendan servicios
-3. **Calidad y Precisión**: Resultados confiables y científicamente validados
-4. **Experiencia del Cliente**: Proceso simple y comunicación clara
-5. **Innovación Continua**: Actualización constante de bases de datos
-6. **Gestión Financiera**: Control de costos y optimización de márgenes
+1.  **Educación del Mercado**: Inversión sostenida en concienciación
+2.  **Alianzas Veterinarias**: Red sólida de veterinarios que recomiendan servicios
+3.  **Calidad y Precisión**: Resultados confiables y científicamente validados
+4.  **Experiencia del Cliente**: Proceso simple y comunicación clara
+5.  **Innovación Continua**: Actualización constante de bases de datos
+6.  **Gestión Financiera**: Control de costos y optimización de márgenes
 
 # Referencias Bibliográficas
 
 ## Fuentes de Datos de Mercado
 
-1. **Grand View Research**. (2024). *Mexico Pet DNA Testing Market Size & Outlook, 2024-2030*. Horizon Databook. Recuperado de https://www.grandviewresearch.com/horizon/outlook/pet-dna-testing-market/mexico
+1.  **Grand View Research**. (2024). *Mexico Pet DNA Testing Market Size & Outlook, 2024-2030*. Horizon Databook. Recuperado de https://www.grandviewresearch.com/horizon/outlook/pet-dna-testing-market/mexico
 
-2. **Grand View Research**. (2024). *Latin America Veterinary DNA Testing Market Size & Outlook, 2030*. Horizon Databook. Recuperado de https://www.grandviewresearch.com/horizon/outlook/veterinary-dna-testing-market/latin-america
+2.  **Grand View Research**. (2024). *Latin America Veterinary DNA Testing Market Size & Outlook, 2030*. Horizon Databook. Recuperado de https://www.grandviewresearch.com/horizon/outlook/veterinary-dna-testing-market/latin-america
 
-3. **IMARC Group**. (2024). *Mexico Veterinary Healthcare Market Report 2025-2033*. Recuperado de https://www.imarcgroup.com/report/es/mexico-veterinary-healthcare-market
+3.  **IMARC Group**. (2024). *Mexico Veterinary Healthcare Market Report 2025-2033*. Recuperado de https://www.imarcgroup.com/report/es/mexico-veterinary-healthcare-market
 
-4. **IMARC Group**. (2024). *Latin America Pet Care Market Size and Forecast to 2033*. Recuperado de https://www.imarcgroup.com/latin-america-pet-care-market
+4.  **IMARC Group**. (2024). *Latin America Pet Care Market Size and Forecast to 2033*. Recuperado de https://www.imarcgroup.com/latin-america-pet-care-market
 
 ## Fuentes Gubernamentales y Estadísticas
 
-5. **Instituto Nacional de Estadística y Geografía (INEGI)**. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*. México.
+5.  **Instituto Nacional de Estadística y Geografía (INEGI)**. (2021). *Encuesta Nacional de Bienestar Autorreportado (ENBIARE)*. México.
 
-6. **Gobierno de México - SENASICA**. (2024). *Control de Productos Veterinarios*. Recuperado de https://www.gob.mx/senasica/acciones-y-programas/regulacion-de-productos-veterinarios
+6.  **Gobierno de México - SENASICA**. (2024). *Control de Productos Veterinarios*. Recuperado de https://www.gob.mx/senasica/acciones-y-programas/regulacion-de-productos-veterinarios
 
-7. **Gobierno de México - SENASICA**. (2024). *Normas Oficiales Mexicanas en materia de Salud Animal*. Recuperado de https://www.gob.mx/senasica/documentos/normatividad-en-materia-de-salud-animal
+7.  **Gobierno de México - SENASICA**. (2024). *Normas Oficiales Mexicanas en materia de Salud Animal*. Recuperado de https://www.gob.mx/senasica/documentos/normatividad-en-materia-de-salud-animal
 
-8. **Diario Oficial de la Federación**. (2020). *NORMA Oficial Mexicana NOM-012-SAG/ZOO-2020, Especificaciones para la regulación de productos para uso o consumo animal*. Recuperado de https://www.dof.gob.mx/normasOficiales/9371/sader/sader.html
+8.  **Diario Oficial de la Federación**. (2020). *NORMA Oficial Mexicana NOM-012-SAG/ZOO-2020, Especificaciones para la regulación de productos para uso o consumo animal*. Recuperado de https://www.dof.gob.mx/normasOficiales/9371/sader/sader.html
 
 ## Fuentes de Industria y Medios
 
-9. **Forbes México**. (2024). *Así es cómo la industria pet mueve miles de millones en México*. Recuperado de https://forbes.com.mx/
+9.  **Forbes México**. (2024). *Así es cómo la industria pet mueve miles de millones en México*. Recuperado de https://forbes.com.mx/
 
 10. **Swiss Info**. (2025). *Mercado de alimentos para mascotas en México alcanzaría 3,600 millones de dólares en 2025*. Recuperado de https://www.swissinfo.ch/
 
@@ -762,7 +773,7 @@ kable(kpis,
 
 20. **Bienestar Canino FCM**. (2024). *Pruebas ADN*. Recuperado de https://bienestarcanino.fcm.mx/dna-testing/
 
-21. **Koko Genetics**. (2024). *Test ADN mascotas | Prueba ADN Razas y Salud*. Recuperado de https://www.kokogenetics.com/
+21. **Koko Genetics**. (2024). *Test ADN mascotas \| Prueba ADN Razas y Salud*. Recuperado de https://www.kokogenetics.com/
 
 22. **Embark Veterinary**. (2024). *Dog DNA Test: Know your dog. Better*. Recuperado de https://embarkvet.com/
 
@@ -780,7 +791,7 @@ kable(kpis,
 
 28. **MetaTech Insights**. (2024). *Latin America Pet DNA Testing Market Share, Size, 2025-2035*. Recuperado de https://www.metatechinsights.com/
 
----
+------------------------------------------------------------------------
 
 **Nota sobre Metodología:**
 
@@ -788,5 +799,4 @@ Este análisis se basa en datos secundarios de fuentes confiables de investigaci
 
 El análisis PESTEL, SWOT, 5 Fuerzas de Porter y Business Model Canvas son marcos de análisis estratégico aplicados a los datos recopilados, representando una evaluación profesional del mercado basada en la información disponible hasta noviembre de 2024.
 
----
-
+------------------------------------------------------------------------
