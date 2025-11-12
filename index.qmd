@@ -1,5 +1,5 @@
 ---
-title: "Análisis de Mercado: Genotipificación de Enfermedades en Perros"
+title: "Genotipificación de Enfermedades en Perros"
 subtitle: "México y Latinoamérica"
 author: "Erick Cuevas Fernández"
 date: "`r Sys.Date()`"
